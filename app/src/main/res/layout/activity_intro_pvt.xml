@@ -14,7 +14,7 @@
             android:id="@+id/textView5"
             app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
             android:layout_marginTop="160dp" app:layout_constraintEnd_toEndOf="parent" android:textSize="18sp"
-            android:layout_marginStart="20dp" android:layout_marginEnd="10dp"/>
+            android:layout_marginStart="20dp" android:layout_marginEnd="20dp"/>
     <Button
             android:text="Continuar"
             android:layout_width="wrap_content"

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "603581659662",
+    "firebase_url": "https://alertness-69d38.firebaseio.com",
+    "project_id": "alertness-69d38",
+    "storage_bucket": "alertness-69d38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603581659662:android:923db1c51edd4e9c",
+        "android_client_info": {
+          "package_name": "com.example.alertness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603581659662-sg2c9at5u1ifn00tosdjdne1u03a7jv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alertness",
+            "certificate_hash": "6642961d5a40289736f2424634b0c5d60bc43bbd"
+          }
+        },
+        {
+          "client_id": "603581659662-tboo8fii8prftoeju4p76cprfe3bkrpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqz0aL_amhcyCmn9ts9s6OzMx3u131LRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603581659662-tboo8fii8prftoeju4p76cprfe3bkrpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
